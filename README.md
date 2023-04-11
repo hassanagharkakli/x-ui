@@ -85,7 +85,7 @@ find this in config :
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hassanagharkakli/x-ui/master/install.sh)
 ```
 
 ## Manual install & upgrade
